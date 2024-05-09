@@ -12,3 +12,4 @@ SAP
 ServiceNow
 Thales
 Varonis
+VMWare
